@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lr4,5,6\Lr 6\bin\Debug\Lr 6.exe.config
+C:\Users\User\source\repos\Lr4,5,6\Lr 6\bin\Debug\Lr 6.exe
+C:\Users\User\source\repos\Lr4,5,6\Lr 6\bin\Debug\Lr 6.pdb
+C:\Users\User\source\repos\Lr4,5,6\Lr 6\obj\Debug\Lr 6.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lr4,5,6\Lr 6\obj\Debug\Lr 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Lr4,5,6\Lr 6\obj\Debug\Lr_6.Form1.resources
+C:\Users\User\source\repos\Lr4,5,6\Lr 6\obj\Debug\Lr_6.Properties.Resources.resources
+C:\Users\User\source\repos\Lr4,5,6\Lr 6\obj\Debug\Lr 6.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lr4,5,6\Lr 6\obj\Debug\Lr 6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lr4,5,6\Lr 6\obj\Debug\Lr 6.exe
+C:\Users\User\source\repos\Lr4,5,6\Lr 6\obj\Debug\Lr 6.pdb
